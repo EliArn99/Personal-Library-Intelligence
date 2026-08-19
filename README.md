@@ -1,5 +1,9 @@
 # Personal-Library-Intelligence
-A full-stack Django application for managing personal libraries, tracking reading progress, analyzing reading habits, setting goals, and generating personalized book recommendations.
+Personal Library Intelligence is a personal literary blog and digital library built with Django.
+
+The project is designed as my own colorful and organized space for books — a place where I can keep track of my personal library, document my reading journey, publish essays and reviews, collect favorite quotes, organize books into collections, and gradually build a long-term archive of my life as a reader.
+
+Rather than being a social reading platform, the project is currently focused on a single personal library and literary blog, with Django Admin serving as the private content management system.
 
 
 # 📚 Personal Library Intelligence
